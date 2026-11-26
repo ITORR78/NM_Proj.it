@@ -1,6 +1,6 @@
 clc; clear;
 
-% Hohmann Transfer - Modified Euler (ME2) - 11/19
+% Hohmann Transfer - Modified Euler (ME2) - 11/26
 % Explicit Trapezoidal Method & Convergence
 
 % Intial orbital parameters
